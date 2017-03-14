@@ -1,4 +1,4 @@
-Service fault email pattern
+##Service fault email pattern
 
 --
 
@@ -13,3 +13,9 @@ We’re working to fix this as quickly as possible. We’ll update you every hou
 Thanks for your patience.
 
 GAD IT Systems team
+
+##When to use this pattern
+
+- scenario 1
+- scenario 2
+
