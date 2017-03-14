@@ -1,4 +1,4 @@
-##Service fault email pattern
+## Service fault email pattern
 
 --
 
@@ -14,7 +14,7 @@ Thanks for your patience.
 
 GAD IT Systems team
 
-##When to use this pattern
+## When to use this pattern
 
 - scenario 1
 - scenario 2
