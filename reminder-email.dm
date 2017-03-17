@@ -1,0 +1,2 @@
+## Reminder email pattern
+
