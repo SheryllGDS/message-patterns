@@ -1,21 +1,15 @@
-## Service fault email pattern
+## 'There's a fault with the service' email pattern
 
---
+Subject: Network is down: Government Digital Service
 
-Subject: Network down: Government Actuary’s Department
+Dear {recipient name}
 
-Dear John
+There’s a problem with {problem type}. We hope to fix this in {timescale in hours}. 
 
-There’s a problem with the Government Actuary’s Department (GAD) network. This means you won’t be able to log in to the network. 
-
-We’re working to fix this as quickly as possible. We’ll update you every hour until the problem’s fixed.
+We’ll send you update emails every hour until the problem’s fixed.
 
 Thanks for your patience.
 
-GAD IT Systems team
+Government Digital Service team
 
-## When to use this pattern
-
-- scenario 1
-- scenario 2
 
