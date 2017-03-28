@@ -2,9 +2,7 @@
 
 Subject: Network is down: Government Digital Service
 
-Dear ((recipient name))
-
-There’s a problem with ((problem type)). We hope to fix this in ((timescale)).
+There’s a problem with ((problem type)) so you won't be able to use it. We hope to fix this in ((timescale)).
 
 We’ll send you updates until the problem’s fixed.
 
