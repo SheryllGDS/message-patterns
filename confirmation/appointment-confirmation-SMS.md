@@ -1,4 +1,4 @@
-# Appointment confirmation text
+# Confirm an appointment by text message
 
 Sender ID: 12345
 
