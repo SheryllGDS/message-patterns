@@ -1,12 +1,12 @@
-# Fault with the service email pattern
+# Fault with the service text message pattern
 
-Subject: Network is down: Government Digital Service
+Sender ID number: 12345
 
-There’s a problem with ((problem type)) so you won't be able to use it. We hope to fix this in ((timescale)).
+User tel number: 
 
-We’ll send you updates until the problem’s fixed.
+Government Digital Service: The network is down so you won't be able to use the GOV.UK Publisher. We’ll send you updates until the problem’s fixed. 
 
 
-Thanks
 
-Government Digital Service team
+
+
