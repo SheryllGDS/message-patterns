@@ -1,4 +1,4 @@
-* Confirm that you applied to something
+** Confirm that you applied to something
 
 Subject: Applying for a ((application name))   
 
