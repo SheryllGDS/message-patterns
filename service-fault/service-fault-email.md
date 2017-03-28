@@ -1,4 +1,4 @@
-## 'There's a fault with the service' email pattern
+## Fault with the service email pattern
 
 Subject: Network is down: Government Digital Service
 
