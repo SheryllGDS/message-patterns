@@ -1,20 +1,20 @@
-# Confirm that you applied for something
+# Confirm an application pattern
 
-Subject: Applying for a ((application_name))   
+Subject: Apply for a ((application name))   
 
-Dear ((Applicant_name))
+Dear ((applicant name))
 
-You told us you wanted to apply for a ((application name)), so we've attached an application form.
+You asked to apply for a ((application name)), so we've attached an application form.
 
 You'll need to print it, complete it and send it to:
 
-((Service name))
-((Building name))
-((Address 1))
-((Address 2))
-((Postcode))
+((service name))
+((address 1))
+((address 2))
+((address 3))
+((postcode))
 
-If you can't print the application form, ask ((Service name)) for a paper copy.
+Thanks
 
 ## Disclaimer
 
