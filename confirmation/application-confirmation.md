@@ -8,11 +8,11 @@ You asked to apply for a ((application name)), so we've attached an application 
 
 You'll need to print it, complete it and send it to:
 
-((service name))
-((address 1))
-((address 2))
-((address 3))
-((postcode))
+- ((service name))
+- ((address 1))
+- ((address 2))
+- ((address 3))
+- ((postcode))
 
 Thanks
 
