@@ -3,4 +3,4 @@
 ## Service fault messages:
 
 - [email](https://sheryllgds.github.io/message-patterns/service-fault/service-fault-email)
-- [text message](.md)
+- [text message](https://sheryllgds.github.io/message-patterns/service-fault/service-fault-SMS)
