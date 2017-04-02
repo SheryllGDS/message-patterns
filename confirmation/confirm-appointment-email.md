@@ -1,6 +1,6 @@
 # Confirm an appointment email pattern
 
-Subject: Home Office: appointment confirmed
+Subject: Home Office Reporting: appointment confirmed
 
 Dear ((full name))
 
@@ -14,4 +14,4 @@ To change or cancel this appointment, go to: https://www.gov.uk/xxxx or call 030
 
 Thanks
 
-Home Office
+Home Office Reporting team
