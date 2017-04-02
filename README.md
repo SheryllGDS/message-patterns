@@ -4,8 +4,8 @@
 
 Applications:
 
-- [email](https://sheryllgds.github.io/message-patterns/confirm-application-email)
-- [text message](https://sheryllgds.github.io/message-patterns/)
+- [email](https://sheryllgds.github.io/message-patterns/confirmation/confirm-application-email)
+- [text message](https://sheryllgds.github.io/message-patterns/confirmation/)
 
 ## Updates
 
