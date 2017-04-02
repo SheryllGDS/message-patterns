@@ -1,6 +1,6 @@
 # Confirm an application pattern
 
-Register to vote: application received 
+Subject: Register to vote: application received 
 
 Dear ((first name))
 
