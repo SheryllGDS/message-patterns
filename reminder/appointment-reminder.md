@@ -12,11 +12,11 @@ On ((date saved)) you saved an application to appeal to the Tax Tribunal.
 
 We're emailing to remind you that you still haven't completed your application. 
 
-You have until ((application deadline date)) to complete and submit it.
+You need to complete and submit your application by ((deadline date)). 
 
-We won't be able to review and make a decision on your appeal if you don't complete your application on time. If you miss the deadline but still want to apply, you'll have to start again.
+To get back to your saved application, go to ((link to application)).
 
-Get back to your saved application ((link to application)).
+We can't review or make a decision on your appeal until you do this.
 
 ### Cancel your application
 
