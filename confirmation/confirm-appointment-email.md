@@ -1,17 +1,17 @@
 # Confirm an appointment email pattern
 
-Subject:Home Office Reporting: appointment confirmation
+Subject:Home Office: appointment confirmation
 
 Dear ((full name))
 
-You made an appointment with the Home Office Reporting to discuss ((appointment reason)).
+You recently made an appointment to meet with the Home Office Reporting team about ((reason for appointment)).
 
-We confirm that your appointment is on ((date and time)) at ((full address)). Show this email to when you arrive, along with some way to identify you, for example, a passport.
+Your appointment is on ((date and time)) at ((full address)). Show this email at reception when you arrive, along with a form of identification, such as a passport.
 
 You may face penalties if you don't show up.
 
-To change or cancel this appointment, go to: https://www.gov.uk/immigration-reporting-centres.
+To change or cancel this appointment, go to: https://www.gov.uk/xxxx or call 0300 xxx xxxx.
 
 Thanks
 
-Home Office Reporting 
+Home Office
