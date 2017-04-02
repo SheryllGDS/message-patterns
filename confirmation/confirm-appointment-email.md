@@ -10,7 +10,7 @@ We confirm that your appointment is on ((date and time)) at ((full address)). Sh
 
 You may face penalties if you don't show up.
 
-To change or cancel this appointment, go to: https://www.gov.uk/immigration-reporting-centres
+To change or cancel this appointment, go to: https://www.gov.uk/immigration-reporting-centres.
 
 Thanks
 
