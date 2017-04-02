@@ -23,8 +23,8 @@ Appointments:
 
 Payments:
 
-- [email](https://sheryllgds.github.io/message-patterns/reminder/)
-- [text message](https://sheryllgds.github.io/message-patterns/reminder/)
+- [email](https://sheryllgds.github.io/message-patterns/receipt/payment-receipt-sms)
+- [text message](https://sheryllgds.github.io/message-patterns/receipt/payment-receipt-email)
 
 ## Updates
 
