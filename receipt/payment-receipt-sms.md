@@ -1,6 +1,6 @@
 # Payment receipt text message pattern
 
-Personal tax account: We received your payment of £2,137 on 20 Jan 2017. Your reference is D12234. If this amount is wrong, contact us at https://www.gov.uk/personal-tax-refund.
+Personal tax account: We received your payment of ((amount paid)) on ((date and time)). Your reference is ((reference)). If this amount is wrong, contact us at https://www.gov.uk/personal-tax-refund.
 
 ## Disclaimer
 
