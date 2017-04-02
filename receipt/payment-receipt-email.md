@@ -1,0 +1,2 @@
+# Payment receipt email pattern
+
