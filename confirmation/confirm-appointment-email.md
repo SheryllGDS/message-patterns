@@ -1,6 +1,6 @@
 # Confirm an appointment email pattern
 
-Subject:Home Office: appointment confirmation
+Subject: Home Office: appointment confirmed
 
 Dear ((full name))
 
