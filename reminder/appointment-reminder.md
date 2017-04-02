@@ -20,7 +20,7 @@ Get back to your saved application ((link to application)).
 
 ### Cancel your application
 
-Ignore this email and let the deadline pass if you don't want to continue with your application. We'll just close your application after the deadline passes.
+If you don't want to continue with your application, just let the deadline pass. We'll close your application afterwards.
 
 Thanks
 
