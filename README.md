@@ -16,7 +16,7 @@ Appointments:
 
 Appointments:
 
-- [email](https://sheryllgds.github.io/message-patterns/reminder/)
+- [email](https://sheryllgds.github.io/message-patterns/reminder/appointment-reminder-email)
 - [text message](https://sheryllgds.github.io/message-patterns/reminder/)
 
 ## Receipt
