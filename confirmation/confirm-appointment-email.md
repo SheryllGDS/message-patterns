@@ -6,7 +6,7 @@ Dear ((full name))
 
 You recently made an appointment to meet with the Home Office Reporting team about ((reason for appointment)).
 
-Your appointment is on ((date and time)) at ((full address)). Show this email at reception when you arrive, along with a form of identification, such as a passport.
+Your appointment is on ((date and time)) at ((full address)). Show this email, along with a form of identification, such as a passport when you arrive.
 
 **You may face penalties if you don't show up.**
 
