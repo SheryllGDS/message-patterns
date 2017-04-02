@@ -12,6 +12,13 @@ Appointments:
 - [email](https://sheryllgds.github.io/message-patterns/confirmation/confirm-appointment-email)
 - [text message](https://sheryllgds.github.io/message-patterns/confirmation/confirm-appointment-sms)
 
+## Reminders
+
+Appointments:
+
+- [email](https://sheryllgds.github.io/message-patterns/reminder/)
+- [text message](https://sheryllgds.github.io/message-patterns/reminder/)
+
 ## Updates
 
 Service fault:
