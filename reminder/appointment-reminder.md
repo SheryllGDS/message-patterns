@@ -25,3 +25,7 @@ If you don't want to continue with your application, just let the deadline pass.
 Thanks
 
 Tax Tribunal team
+
+## Disclaimer
+
+This wording is given as an example. It is not being used by any government department or agency.
