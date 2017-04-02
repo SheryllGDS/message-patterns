@@ -8,9 +8,9 @@ To: ((email address))
 
 Dear ((user name))
 
-On ((date saved)) you saved an application to appeal to the Tax Tribunal.
+On ((date)) you saved an application to appeal to the Tax Tribunal. We're emailing to remind you that you still haven't completed your application. 
 
-We're emailing to remind you that you still haven't completed your application. 
+### Continue your application
 
 You need to complete and submit your application by ((deadline date)). 
 
