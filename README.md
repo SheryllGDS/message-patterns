@@ -1,6 +1,6 @@
 # message patterns
 
-## Confirmation messages
+## Confirmation
 
 Applications:
 
