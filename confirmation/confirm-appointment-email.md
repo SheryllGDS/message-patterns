@@ -4,7 +4,7 @@ Subject: Home Office Reporting: appointment confirmed
 
 Dear ((full name))
 
-You recently made an appointment to meet with the Home Office Reporting team about ((reason for appointment)).
+You recently made an appointment to meet with the Home Office Reporting team.
 
 Your appointment is on ((date and time)) at ((full address)). Show this email, along with a form of identification, such as a passport when you arrive.
 
