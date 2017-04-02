@@ -1,24 +1,18 @@
 # Confirm an application pattern
 
-Subject: Apply for a ((application name))   
+Register to vote: application received 
 
-Dear ((applicant name))
+Dear ((first name))
 
-You asked to apply for a ((application name)), so we've attached an application form.
+Reference: ((reference number))
 
-You'll need to print it, complete it and send it to:
+We've sent your application to ((borough council name)). They'll contact you to confirm you're registered to vote or to ask for more information.
 
-((service name))
-
-((address 1))
-
-((address 2))
-
-((address 3))
-
-((postcode))
+If you have any questions about your application, email the Electoral Services Office at vote@xxxx.gov.uk or call them on 020 7xxx xxxx.
 
 Thanks
+
+Electoral Services Office
 
 ## Disclaimer
 
