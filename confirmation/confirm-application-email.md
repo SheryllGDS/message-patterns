@@ -4,14 +4,16 @@ This wording is given as an example. It is not being used by any government depa
 
 We use GOV.UK Notify's markup language in our example templates. In this message we use:
 
-'>' to call out an important part of the message, like the deadline date
-'(( ))' to show where placeholder text can go
+- '>' to call out an important part of the message, like the deadline date
+- '(( ))' to show where placeholder text can go
+
 Get back to [writing emails and text message guide](LINK TO GUIDE).
 
 ***
 From:Electoral Services
 
 Subject: Register to vote: application received 
+
 ***
 
 Dear ((first name))
