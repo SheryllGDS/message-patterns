@@ -6,4 +6,4 @@ Get back to [writing emails and text message guide](LINK TO GUIDE).
 
 ***
 
-Personal tax account: We received your payment of ((amount paid)) on ((date and time)). Your reference is ((reference)). If this is the wrong amount, contact us at https://www.gov.uk/personal-tax-refund.
+Tax your vehicle: You paid ((amount paid)) by Direct Debit on (date and time). Your reference is ((reference)). This covers December 2016 to the end of November 2017. If this is incorrect, go to https://www.gov.uk/vehicle-tax-refund.
