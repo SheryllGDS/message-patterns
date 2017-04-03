@@ -6,7 +6,7 @@ We use [GOV.UK Notify's](https://www.notifications.service.gov.uk) markup langua
 In this message we use:
 
 - '>' to call out an important part of the message, like the deadline date
-- (( )) to show where placeholder text can go
+- '(( ))' to show where placeholder text can go
 
 Get back to [writing emails and text message guide](LINK TO GUIDE). 
 
