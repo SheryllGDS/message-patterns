@@ -9,7 +9,7 @@ Get back to [writing emails and text message guide](LINK TO GUIDE).
 We use [GOV.UK Notify's](https://www.notifications.service.gov.uk) markup language in our example templates. 
 In this message we use:
 
-- > to call out an important part of the message, like a deadline date
+- '>' to call out an important part of the message, like a deadline date
 - (( )) to show where placeholder text can go
 
 ***
