@@ -1,5 +1,13 @@
 # Confirm an appointment email pattern
 
+This wording is given as an example. It is not being used by any government department or agency.
+
+Get back to [writing emails and text message guide](LINK TO GUIDE). 
+
+***
+
+From: Home Office Reporting
+
 Subject: Home Office Reporting: appointment confirmed
 
 Dear ((full name))
