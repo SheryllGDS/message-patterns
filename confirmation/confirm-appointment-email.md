@@ -10,6 +10,8 @@ From: Home Office Reporting
 
 Subject: Home Office Reporting: appointment confirmed
 
+***
+
 Dear ((full name))
 
 You recently made an appointment to meet with the Home Office Reporting team.
