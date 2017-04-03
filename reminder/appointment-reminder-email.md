@@ -1,8 +1,5 @@
 # Appointment reminder email pattern
 
-
-## Disclaimer
-
 This wording is given as an example. It is not being used by any government department or agency.
 ***
 
