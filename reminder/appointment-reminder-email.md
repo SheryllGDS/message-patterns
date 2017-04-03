@@ -14,7 +14,7 @@ On ((date)) you saved an application to appeal to the Tax Tribunal. We're emaili
 
 You need to complete and submit your application by ((deadline date)). 
 
-To get back to your saved application, go to ((link to application)).
+> To get back to your saved application, go to ((link to application)).
 
 We can't review or make a decision on your appeal until you do this.
 
