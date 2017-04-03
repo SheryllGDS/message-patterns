@@ -1,10 +1,16 @@
-## Appointment reminder email pattern
+# Appointment reminder email pattern
+
+
+## Disclaimer
+
+This wording is given as an example. It is not being used by any government department or agency.
+***
 
 From: Appeal to the tax tribunal
 
 Subject: Application incomplete - Appeal to Tax Tribunal
 
-To: ((email address))
+***
 
 Dear ((user name))
 
@@ -26,6 +32,3 @@ Thanks
 
 Tax Tribunal team
 
-## Disclaimer
-
-This wording is given as an example. It is not being used by any government department or agency.
