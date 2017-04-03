@@ -5,7 +5,7 @@ This wording is given as an example. It is not being used by any government depa
 Get back to [writing emails and text message guide](LINK TO GUIDE).
 
 ***
-From:Electoral Services Office
+From: Electoral Services Office
 
 Subject: Register to vote: application received 
 
