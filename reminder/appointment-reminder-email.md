@@ -4,8 +4,6 @@ This wording is given as an example. It is not being used by any government depa
 
 Get back to [writing emails and text message guide](LINK TO GUIDE). 
 
-## Markup used in this message
-
 We use [GOV.UK Notify's](https://www.notifications.service.gov.uk) markup language in our example templates. 
 In this message we use:
 
