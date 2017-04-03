@@ -1,6 +1,8 @@
 # Appointment reminder email pattern
 
 This wording is given as an example. It is not being used by any government department or agency.
+
+Get back to [writing emails and text message guide](LINK TO GUIDE). 
 ***
 
 From: Appeal to the tax tribunal
@@ -9,7 +11,7 @@ Subject: Application incomplete - Appeal to Tax Tribunal
 
 ***
 
-Dear ((user name))
+Dear ((full name))
 
 On ((date)) you saved an application to appeal to the Tax Tribunal. We're emailing to remind you that you still haven't completed your application. 
 
