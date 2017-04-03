@@ -2,13 +2,10 @@
 
 This wording is given as an example. It is not being used by any government department or agency.
 
-We use GOV.UK Notify's markup language in our example templates. In this message we use:
-- '(( ))' to show where placeholder text can go
-
 Get back to [writing emails and text message guide](LINK TO GUIDE).
 
 ***
-From:Electoral Services
+From:Electoral Services Office
 
 Subject: Register to vote: application received 
 
