@@ -1,4 +1,4 @@
-# Confirm an appointment by text message
+# Confirm an appointment text message template
 
 This wording is given as an example. It is not being used by any government department or agency.
 
