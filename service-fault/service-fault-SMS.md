@@ -6,4 +6,4 @@ Get back to [writing emails and text messages guide](LINK TO GUIDE).
 
 ***
 
-GOV.UK network is down: You won't be able to use the GOV.UK Publisher . We’ll send you hourly updates until the problem’s fixed. 
+GOV.UK network is down: You can't use the GOV.UK Publisher. We should get it working again by ((deadline)). We'll let you know once it's fixed.
