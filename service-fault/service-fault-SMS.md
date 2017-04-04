@@ -1,12 +1,9 @@
 # Fault with the service text message pattern
 
-Sender ID number: 12345
+This wording is given as an example. It is not being used by any government department or agency.
 
-To: ((phone number))
+Get back to [writing emails and text messages guide](LINK TO GUIDE).
 
-Government Digital Service: The network is down so you won't be able to use the GOV.UK Publisher. We’ll send you updates until the problem’s fixed. 
+***
 
-
-
-
-.
+GOV.UK network is down: You won't be able to use the GOV.UK Publisher at the moment. We’ll send you hourly updates until the problem’s fixed. 
