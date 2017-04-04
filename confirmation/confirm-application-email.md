@@ -1,4 +1,4 @@
-# Confirm an application template
+# Confirm an application
 
 This wording is given as an example. It is not being used by any government department or agency.
 
